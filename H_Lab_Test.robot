@@ -4,8 +4,8 @@ Library         SeleniumLibrary
 *** Variables ***
 ${URL}    https://shopee.co.th/
 ${Browser}      chrome
-${username}     0942091958            
-${password}     Teerapat30360         
+${username}     xxxxxxxxx            #username
+${password}     xxxxxxxxx            #password
 
 *** Keywords ***
 Open Website Shopee
